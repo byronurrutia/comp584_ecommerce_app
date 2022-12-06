@@ -8,6 +8,6 @@
 * cd client
 * npm start
 
-## Manage Database
+## Manage Database:
 * cd backend
 * ./pocketbase serve
